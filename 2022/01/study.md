@@ -14,3 +14,5 @@
 - 면접 준비
 ## 2022-01-15
 - Effective Java 1장
+## 2022-01-16
+- Effective Java 2장
